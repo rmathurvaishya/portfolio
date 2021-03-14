@@ -2265,18 +2265,18 @@ body.dark .blog-page-section .blog-single {
 }
 
 .shadow-blue {
-  -webkit-box-shadow: 0px 5px 20px 0px rgba(108, 108, 229, 0.5);
-  box-shadow: 0px 5px 20px 0px rgba(108, 108, 229, 0.5);
+  -webkit-box-shadow: 0px 5px 20px 0px #6C6CE5;
+  box-shadow: 0px 5px 20px 0px #6C6CE5;
 }
 
 .shadow-pink {
-  -webkit-box-shadow: 0px 5px 20px 0px rgba(249, 123, 139, 0.5);
-  box-shadow: 0px 5px 20px 0px rgba(249, 123, 139, 0.5);
+  -webkit-box-shadow: 0px 5px 20px 0px #FF4C60;
+  box-shadow: 0px 5px 20px 0px #FF4C60;
 }
 
 .shadow-yellow {
-  -webkit-box-shadow: 0px 5px 20px 0px rgba(249, 215, 76, 0.5);
-  box-shadow: 0px 5px 20px 0px rgba(249, 215, 76, 0.5);
+  -webkit-box-shadow: 0px 5px 20px 0px rgb(26%, 76%, 66%);
+  box-shadow: 0px 5px 20px 0px          rgb(26%, 76%, 66%)
 }
 
 .padding-30 {
